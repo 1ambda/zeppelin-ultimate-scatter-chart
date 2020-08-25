@@ -15,7 +15,7 @@
   "author": "ZEPL",
   "license": "SEE LICENSE IN <LICENSE>",
   "dependencies": {
-    "highcharts": "^5.0.10",
+    "highcharts": "^8.2.0",
     "zeppelin-tabledata": "*",
     "zeppelin-vis": "*"
   },
